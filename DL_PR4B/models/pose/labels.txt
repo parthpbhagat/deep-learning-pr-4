@@ -1,0 +1,3 @@
+0 Squat Down
+1 Squat Up
+2 Rest

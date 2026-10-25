@@ -1,0 +1,11 @@
+{
+  "tfjsVersion": "1.3.1",
+  "tmVersion": "2.4.7",
+  "packageVersion": "0.8.4-alpha.2",
+  "packageName": "@teachablemachine/audio",
+  "timeStamp": "2026-10-13T16:00:00.000Z",
+  "modelName": "Sound Command Classifier",
+  "labels": ["Background Noise", "Clapping", "Whistle", "Snapping"],
+  "wordLabels": ["Background Noise", "Clapping", "Whistle", "Snapping"],
+  "inputShape": [43, 232, 1]
+}
